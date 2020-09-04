@@ -1,0 +1,35 @@
+{
+    "btarget": 1.2,
+    "full_in": 95,
+    "refund_on_sell": true,
+    "method": "cross",
+    "stop_loss": 0.5,
+    "strategies":[
+        {
+            
+            "cryptocurrency": "BTC",
+            "exchange_currency": "USDT",
+            "neckline_buy": 6.777,
+            "neckline_sell": 6.489,
+            
+        },
+        {
+            
+            "cryptocurrency": "ETH",
+            "exchange_currency": "USDT",
+            "neckline_buy": 6.777,
+            "neckline_sell": 6.489,
+            
+        },
+	{
+            
+            "cryptocurrency": "ADA",
+            "exchange_currency": "USDT",
+            "neckline_buy": 0.00828,
+            "neckline_sell": 0.00768,
+            
+        }
+  
+    ]
+
+}
