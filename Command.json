@@ -10,7 +10,7 @@
             "cryptocurrency": "BTC",
             "exchange_currency": "USDT",
             "neckline_buy": 6.777,
-            "neckline_sell": 6.489,
+            "neckline_sell": 6.489
             
         },
         {
@@ -18,7 +18,7 @@
             "cryptocurrency": "ETH",
             "exchange_currency": "USDT",
             "neckline_buy": 6.777,
-            "neckline_sell": 6.489,
+            "neckline_sell": 6.489
             
         },
 	{
@@ -26,7 +26,7 @@
             "cryptocurrency": "ADA",
             "exchange_currency": "USDT",
             "neckline_buy": 0.00828,
-            "neckline_sell": 0.00768,
+            "neckline_sell": 0.00768
             
         }
   
